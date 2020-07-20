@@ -2,7 +2,7 @@
 
 FROM ubuntu:16.04
 
-MAINTAINER Simon Hofmann "simon.hofmann@consol.de"
+MAINTAINER Simon Hofmann "soule"
 ENV REFRESHED_AT 2018-10-29
 
 LABEL io.k8s.description="Headless VNC Container with Xfce window manager, firefox and chromium" \
